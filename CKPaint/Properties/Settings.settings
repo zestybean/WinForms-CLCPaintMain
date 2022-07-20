@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CKPaint.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Station" Type="System.String" Scope="User">
+      <Value Profile="(Default)">USER</Value>
+    </Setting>
+    <Setting Name="Printer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CKBFLEX1LZEBRA</Value>
+    </Setting>
+    <Setting Name="Plant" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BV</Value>
+    </Setting>
+    <Setting Name="Site" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5130</Value>
+    </Setting>
+    <Setting Name="Inspector" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.1 Rev8</Value>
+    </Setting>
+    <Setting Name="PLC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.9.231</Value>
+    </Setting>
+    <Setting Name="Tag" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
